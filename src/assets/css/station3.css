@@ -2,6 +2,11 @@ body {
   background-color:#ffffff;
 }
 
+.card {
+  background-color: #ffffff;
+  padding:10px;
+}
+
 .card__title {
   color:#282828;
   font-size:14px;
@@ -16,5 +21,4 @@ body {
   width:288px;
   height:182px;
   margin-bottom:10px;
-  padding:5px;
 }
